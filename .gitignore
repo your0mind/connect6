@@ -1,0 +1,13 @@
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+target/classes/client/Client.class
+target/classes/common/Game.class
+target/classes/common/GameStatus.class
+target/classes/common/IGameServer.class
+target/classes/common/PlayerInfo.class
+target/classes/common/PlayerType.class
+target/classes/META-INF/connect6.kotlin_module
+target/classes/server/GameServer.class
